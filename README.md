@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jijetu2@gmail.com**
 
-- ⚡ Fun fact **Learner🕛**
+- ⚡ Fun fact **Love to Learn🕛**
 
 
 
