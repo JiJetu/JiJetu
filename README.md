@@ -42,9 +42,9 @@
 ## 📊 My Github Stats
 
   <br/>
-  <p>
+  <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jijetu&show_icons=true&locale=en" alt="jijetu" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jijetu&show_icons=true&locale=en&layout=compact" alt="jijetu" />
+  
   </p>
   <br/>
 
