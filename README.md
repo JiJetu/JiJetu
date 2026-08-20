@@ -4,7 +4,7 @@
   <h3 align="center">Software Engineer ✦ MERN Stack Architecture ✦ Technical Writer</h3>
   
   <a href="https://github.com/JiJetu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0070f3&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Architecting+Robust+Backend+Systems;Exploring+System+Design+%26+Node.js;IoT+Researcher+%26+Technical+Writer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0070f3&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Architecting+Robust+Backend+Systems;Exploring+System+Design+%26+Node.js;Technical+Writer+%26+MERN+Developer" alt="Typing SVG" />
   </a>
   <br/>
   
@@ -18,7 +18,7 @@
 ## Engineering Philosophy
 > Build scalable, resilient systems with a relentless focus on clean architecture and performance.
 >
-> As a software engineer, I specialize in eliminating frontend boilerplate via tools like RTK Query and Redux-persist, while architecting secure, load-balanced backends. Beyond active development, I am a published academic researcher in IoT systems and a technical writer covering fundamental backend principles—such as Node.js stream execution and load-balancing strategies for redundant architectures.
+> As a software engineer, I specialize in eliminating frontend boilerplate via tools like RTK Query and Redux-persist, while architecting secure, load-balanced backends. Beyond active development, I am a technical writer covering fundamental backend principles—such as Node.js stream execution and load-balancing strategies for redundant architectures. I have also contributed to published academic research in smart agriculture systems.
 
 <br/>
 
@@ -69,7 +69,7 @@
 
 <br/>
 
-## GitHub Metrics
+##  GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JiJetu&bg_color=0d1117&color=0070f3&line=0070f3&point=ffffff&area=true&area_color=0070f3&hide_border=true" width="100%" alt="Contribution Graph"/>
