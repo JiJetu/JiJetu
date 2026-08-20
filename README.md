@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <h1 align="center">Md. Jaoadul Islam</h1>
-  <h3 align="center">Software Engineer ✦ MERN Stack Architecture ✦ Technical Writer</h3>
+  <h3 align="center">Software Engineer | MERN Stack Architecture | Technical Writer</h3>
   
   <a href="https://github.com/JiJetu">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0070f3&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Architecting+Robust+Backend+Systems;Exploring+System+Design+%26+Node.js;Technical+Writer+%26+MERN+Developer" alt="Typing SVG" />
@@ -69,10 +69,18 @@
 
 <br/>
 
-##  GitHub Metrics
+## GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JiJetu&bg_color=0d1117&color=0070f3&line=0070f3&point=ffffff&area=true&area_color=0070f3&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <!-- The picture tag dynamically swaps the image based on the user's GitHub theme -->
+  <picture>
+    <!-- Dark Mode Graph -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JiJetu&bg_color=0d1117&color=0070f3&line=0070f3&point=ffffff&area=true&area_color=0070f3&hide_border=true">
+    <!-- Light Mode Graph -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JiJetu&bg_color=ffffff&color=0070f3&line=0070f3&point=000000&area=true&area_color=0070f3&hide_border=true">
+    <!-- Fallback -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JiJetu&bg_color=ffffff&color=0070f3&line=0070f3&point=000000&area=true&area_color=0070f3&hide_border=true" width="100%" alt="Contribution Graph"/>
+  </picture>
 </div>
 
 <br/>
